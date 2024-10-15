@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# analasis-data-bangkit
+
 =======
 Dicoding Collection Dashboard ✨
 
@@ -17,4 +16,3 @@ pip install -r requirements.txt
 
 Run steamlit app
 streamlit run dashboard.py
->>>>>>> db48517 (Initial commit)
